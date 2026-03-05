@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\WinFormsSystem9\obj\Debug\net9.0-windows\WinFormsSystem9.Form1.resources
+C:\Users\Admin\source\repos\WinFormsSystem9\obj\Debug\net9.0-windows\WinFormsSystem9.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinFormsSystem9\obj\Debug\net9.0-windows\WinFormsSystem9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WinFormsSystem9\obj\Debug\net9.0-windows\WinFormsSystem9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WinFormsSystem9\obj\Debug\net9.0-windows\WinFormsSystem9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WinFormsSystem9\obj\Debug\net9.0-windows\WinFormsSystem9.csproj.CoreCompileInputs.cache
