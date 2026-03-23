@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleSystem13\bin\Debug\net10.0\ConsoleSystem13.exe
+C:\Users\Admin\source\repos\ConsoleSystem13\bin\Debug\net10.0\ConsoleSystem13.deps.json
+C:\Users\Admin\source\repos\ConsoleSystem13\bin\Debug\net10.0\ConsoleSystem13.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleSystem13\bin\Debug\net10.0\ConsoleSystem13.dll
+C:\Users\Admin\source\repos\ConsoleSystem13\bin\Debug\net10.0\ConsoleSystem13.pdb
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.dll
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\refint\ConsoleSystem13.dll
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.pdb
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ConsoleSystem13.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleSystem13\obj\Debug\net10.0\ref\ConsoleSystem13.dll
