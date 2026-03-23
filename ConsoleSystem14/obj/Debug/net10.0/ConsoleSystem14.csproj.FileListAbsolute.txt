@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleSystem14\bin\Debug\net10.0\ConsoleSystem14.exe
+C:\Users\Admin\source\repos\ConsoleSystem14\bin\Debug\net10.0\ConsoleSystem14.deps.json
+C:\Users\Admin\source\repos\ConsoleSystem14\bin\Debug\net10.0\ConsoleSystem14.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleSystem14\bin\Debug\net10.0\ConsoleSystem14.dll
+C:\Users\Admin\source\repos\ConsoleSystem14\bin\Debug\net10.0\ConsoleSystem14.pdb
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.dll
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\refint\ConsoleSystem14.dll
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.pdb
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ConsoleSystem14.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleSystem14\obj\Debug\net10.0\ref\ConsoleSystem14.dll
