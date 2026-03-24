@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\bin\Debug\net10.0\ClientServerDz1.exe
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\bin\Debug\net10.0\ClientServerDz1.deps.json
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\bin\Debug\net10.0\ClientServerDz1.runtimeconfig.json
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\bin\Debug\net10.0\ClientServerDz1.dll
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\bin\Debug\net10.0\ClientServerDz1.pdb
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.dll
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\refint\ClientServerDz1.dll
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.pdb
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ClientServerDz1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ClientServerDz1\ClientServerDz1\obj\Debug\net10.0\ref\ClientServerDz1.dll

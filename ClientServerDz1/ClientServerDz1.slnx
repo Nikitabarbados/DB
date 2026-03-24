@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClientDz1/ClientDz1.csproj" />
+  <Project Path="ClientServerDz1/ClientServerDz1.csproj" />
+</Solution>
