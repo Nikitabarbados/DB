@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\bin\Debug\net10.0\ConsoleServer10.exe
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\bin\Debug\net10.0\ConsoleServer10.deps.json
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\bin\Debug\net10.0\ConsoleServer10.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\bin\Debug\net10.0\ConsoleServer10.dll
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\bin\Debug\net10.0\ConsoleServer10.pdb
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.dll
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\refint\ConsoleServer10.dll
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.pdb
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ConsoleServer10.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleServer10\ConsoleServer10\obj\Debug\net10.0\ref\ConsoleServer10.dll
